@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
         int a = 4;
+        System.out.println("Перевная инт" + a);
         byte b = 5;
         short c = 2;
         long g = 12;
@@ -49,7 +50,6 @@ public class Main {
         int pl = az * byt;
         System.out.println("За месяц мы получим " + pl + " Буытлок");
 
-
         int sk = 120;
         int bk = 6;
         int kl = sk / bk;
@@ -60,7 +60,6 @@ public class Main {
         int bkb = sk - bp;
         System.out.println("Белой красски " + bkb);
         System.out.println("В школе, где " + kl + " классов,нужно " + bkb + " банок белой краски и " + bp + " банок коричневой краски");
-
 
         int ba = 5;
         int bg = 80;
@@ -84,7 +83,6 @@ public class Main {
         int kd = vsp / kg;
         System.out.println("Всего в приеме пищи " + kd + " килограмм");
 
-
         int xp = 7 * 1000;
         System.out.println("Вес в граммах " + xp);
         int yg = 250;
@@ -96,7 +94,6 @@ public class Main {
         int xi = gg + fg;
         int xh = xi / 2;
         System.out.println("Cреднее время похудения " + xh + " Дней");
-
 
         int ma = 67760 * 110 / 100;
         System.out.println("10 процентов у кристины " + ma);
